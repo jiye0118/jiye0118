@@ -10,7 +10,7 @@
     👐안녕하세요 반갑습니다👐<br>
     제 이름은 정지예이고 머신러닝 및 데이터 분석 관련하여 공부하고 있습니다.<br>
    <br>
-   <a href="https://www.notion.so/Data-Engineer-db8e524ad9144bbcbcd8010d5b471873">   
+   <a href="https://www.notion.so/ASAC-SK-ec07d937102d4c3a967aae0e3e095120?pvs=4">   
       <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
    </a>
 <br>
@@ -61,7 +61,7 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevormoon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiye0118&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%"/>
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=trevormoon&theme=tokyonight&show_icons=true" width="46%" />
