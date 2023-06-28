@@ -10,7 +10,7 @@
     👐안녕하세요 반갑습니다👐<br>
     제 이름은 정지예이고 머신러닝 및 데이터 분석 관련하여 공부하고 있습니다.<br>
    <br>
-   <a href="https://www.notion.so/ASAC-SK-ec07d937102d4c3a967aae0e3e095120?pvs=4">   
+   <a href="https://www.notion.so/01f96723b1624f65ae6f34449a56ca27?pvs=4">   
       <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
    </a>
 <br>
