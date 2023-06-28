@@ -25,9 +25,6 @@
 <p align="center" display="inline-block">
     💡Language <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
@@ -49,11 +46,8 @@
     💡Used at least once
 </p>
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white">
-  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=plastic&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/arduino-00979D?style=plastic&logo=arduino&logoColor=white">
+   <img src="https://img.shields.io/badge/figma-4A154B?style=plastic&logo=figmak&logoColor=white">
+   <img src="https://img.shields.io/badge/sketch-4A154B?style=plastic&logo=sketchk&logoColor=white">
 </p>
 
 
